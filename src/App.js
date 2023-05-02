@@ -150,7 +150,7 @@ function App() {
 <nav class="navbar navbod navbar-expand-lg bg-body-tertiary">
   <div class="container-fluid">
   <a className="navbar-brand">
-            <img src="/react_crypto/brand.png" alt="My Image" />
+            <img src="/react_crypto/build/brand.png" alt="My Image" />
           </a>
     <button class="navbar-toggler" style={{color:"white"}} type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
